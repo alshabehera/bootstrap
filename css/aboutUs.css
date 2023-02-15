@@ -25,3 +25,7 @@
     margin:0px auto;
     padding:40px 0px 40px 0px;
 }
+
+.navbar-dark{
+    background-color: rgb(43, 226, 119);
+}
